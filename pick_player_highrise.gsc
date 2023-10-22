@@ -1,4 +1,4 @@
-// Custom GSC script to always be russman on highrise
+// Custom GSC script to always be Misty on highrise
 #include maps\mp\zm_highrise;
 #include common_scripts\utility;
 
