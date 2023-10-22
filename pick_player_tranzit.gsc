@@ -1,4 +1,4 @@
-// Custom GSC script to always be russman on highrise
+// Custom GSC script to always be Misty on Tranzit
 #include maps\mp\zm_tranzit;
 #include common_scripts\utility;
 
